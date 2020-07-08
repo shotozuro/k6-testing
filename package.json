@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test:hello": "./tests/hello_test.sh",
     "test:home": "./tests/home_test.sh"
   },
