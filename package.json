@@ -1,0 +1,19 @@
+{
+  "name": "k6-coba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:hello": "./tests/hello_test.sh",
+    "test:home": "./tests/home_test.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nocache": "^2.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
